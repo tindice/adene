@@ -1,0 +1,24 @@
+{
+  "name": "adene",
+  "version": "0.0.0",
+  "description": "Adventure Game Designer",
+  "main": "adene.js",
+  "scripts": {
+    "test": "que"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tindice/adene.git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "mleibner",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tindice/adene/issues"
+  },
+  "dependencies": {
+    "express": "~4.12.2"
+  }
+}
