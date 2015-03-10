@@ -1,3 +1,13 @@
+# Ignora respaldos de algunos editores (gedit,scratch...)
+###################################
+*.*~
+
+# Ignora paquetes instalados con npm
+###################################
+node_modules
+
+# Ignora Java:
+###################################
 *.class
 
 # Mobile Tools for Java (J2ME)
