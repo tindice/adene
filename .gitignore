@@ -1,6 +1,6 @@
 # Ignora respaldos de algunos editores (gedit,scratch...)
 ###################################
-*.*~
+*~
 
 # Ignora paquetes instalados con npm
 ###################################

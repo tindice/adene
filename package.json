@@ -19,6 +19,8 @@
     "url": "https://github.com/tindice/adene/issues"
   },
   "dependencies": {
-    "express": "~4.12.2"
+    "express": "~4.12.2",
+    "express3-handlebars": "~0.5.2",
+    "express-handlebars": "~1.2.2"
   }
 }
