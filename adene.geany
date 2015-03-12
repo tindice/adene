@@ -21,7 +21,11 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=3
+FILE_NAME_0=652;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fdev%2Ftindice%2Fadene%2Fadene.js;0;4
+FILE_NAME_1=0;None;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fdev%2Ftindice%2Fadene%2Fviews%2Fhome.handlebars;0;4
+FILE_NAME_2=91;None;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fdev%2Ftindice%2Fadene%2Fviews%2Fabout.handlebars;0;4
+FILE_NAME_3=95;None;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fdev%2Ftindice%2Fadene%2F.gitignore;0;4
 
 [VTE]
-last_dir=/home/martin/dev/pycode/neosfinder/ui
+last_dir=/home/martin/dev/tindice/adene
